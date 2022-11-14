@@ -1,6 +1,6 @@
 version: "3.9"
 services:
- randomizer-service:
+ deviceinfo-service:
   image: miverboven/oefening1docker
   ports:
     - "8000:8000"
